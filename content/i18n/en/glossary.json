@@ -1,0 +1,210 @@
+{
+  "big": {
+    "word": "big",
+    "definition": "large in size",
+    "variations": [
+      "big",
+      "bigger",
+      "biggest"
+    ],
+    "emoji": "📏"
+  },
+  "black": {
+    "word": "black",
+    "definition": "having the color black, like coal or the night sky",
+    "variations": [
+      "black"
+    ],
+    "emoji": "⚫🖤"
+  },
+  "brown": {
+    "word": "brown",
+    "definition": "having the color brown, like wood or soil",
+    "variations": [
+      "brown"
+    ],
+    "emoji": "🤎"
+  },
+  "calf": {
+    "word": "calf",
+    "definition": "a baby cow",
+    "variations": [
+      "calf",
+      "calves"
+    ],
+    "emoji": "🐄👶"
+  },
+  "coop": {
+    "word": "coop",
+    "definition": "A coop is a small house where chickens or hens live.",
+    "variations": [
+      "coop",
+      "coops",
+      "hen coop",
+      "hen coops"
+    ],
+    "emoji": "🐔🏠"
+  },
+  "cow": {
+    "word": "cow",
+    "definition": "a large farm animal that gives milk",
+    "variations": [
+      "cow",
+      "cows"
+    ],
+    "emoji": "🐄"
+  },
+  "cow shed": {
+    "word": "cow shed",
+    "definition": "a building where cows stay",
+    "variations": [
+      "cow shed",
+      "cow sheds"
+    ],
+    "emoji": "🐄🛖"
+  },
+  "egg": {
+    "word": "egg",
+    "definition": "An egg is what a bird or hen lays. People can eat eggs as food.",
+    "variations": [
+      "egg",
+      "eggs"
+    ],
+    "emoji": "🥚"
+  },
+  "father": {
+    "word": "father",
+    "definition": "a male parent; a dad",
+    "variations": [
+      "father",
+      "fathers"
+    ],
+    "emoji": "👨👨‍👧‍👦"
+  },
+  "goat": {
+    "word": "goat",
+    "definition": "a farm animal with horns and a beard-like chin hair",
+    "variations": [
+      "goat",
+      "goats"
+    ],
+    "emoji": "🐐"
+  },
+  "hen": {
+    "word": "hen",
+    "definition": "a female chicken",
+    "variations": [
+      "hen",
+      "hens"
+    ],
+    "emoji": "🐔"
+  },
+  "horse": {
+    "word": "horse",
+    "definition": "a large animal that can run fast and can carry people or things",
+    "variations": [
+      "horse",
+      "horses"
+    ],
+    "emoji": "🐎🐴"
+  },
+  "house": {
+    "word": "house",
+    "definition": "a building where people live",
+    "variations": [
+      "house",
+      "houses"
+    ],
+    "emoji": "🏠"
+  },
+  "leg": {
+    "word": "leg",
+    "definition": "one of the body parts used for standing and walking",
+    "variations": [
+      "leg",
+      "legs"
+    ],
+    "emoji": "🦵"
+  },
+  "long": {
+    "word": "long",
+    "definition": "having a great length; not short",
+    "variations": [
+      "long",
+      "longer",
+      "longest"
+    ],
+    "emoji": "📏"
+  },
+  "lunch": {
+    "word": "lunch",
+    "definition": "Lunch is a meal eaten in the middle of the day.",
+    "variations": [
+      "lunch",
+      "lunches"
+    ],
+    "emoji": "🍽️🥪"
+  },
+  "mother": {
+    "word": "mother",
+    "definition": "a female parent; a mom",
+    "variations": [
+      "mother",
+      "mothers"
+    ],
+    "emoji": "👩👩‍👧‍👦"
+  },
+  "pig": {
+    "word": "pig",
+    "definition": "a farm animal with a round body and a snout",
+    "variations": [
+      "pig",
+      "pigs"
+    ],
+    "emoji": "🐖🐷"
+  },
+  "pig sty": {
+    "word": "pig sty",
+    "definition": "a place where pigs live",
+    "variations": [
+      "pig sty",
+      "pig sties"
+    ],
+    "emoji": "🐖🏠"
+  },
+  "piglet": {
+    "word": "piglet",
+    "definition": "a baby pig",
+    "variations": [
+      "piglet",
+      "piglets"
+    ],
+    "emoji": "🐷👶"
+  },
+  "run": {
+    "word": "run",
+    "definition": "to move quickly on foot or on legs",
+    "variations": [
+      "run",
+      "runs",
+      "running"
+    ],
+    "emoji": "🏃💨"
+  },
+  "small": {
+    "word": "small",
+    "definition": "little in size",
+    "variations": [
+      "small"
+    ],
+    "emoji": "🤏"
+  },
+  "white": {
+    "word": "white",
+    "definition": "having the color white, like snow or milk",
+    "variations": [
+      "white"
+    ],
+    "emoji": "⚪🤍"
+  }
+}

@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+ * Ruled-paper styling for open-ended-answer textareas.
+ * The fixed line-height is required so the dotted background lines up
+ * with each row of typed text; without it, text would drift off the lines.
+ */
+section[data-section-type="activity_open_ended_answer"] textarea {
+    line-height: 1.75rem;
+    background-image: radial-gradient(circle, #d1d5db 1px, transparent 1.5px);
+    background-size: 6px 1.75rem;
+    background-position: 0 0.875rem;
+    background-repeat: repeat;
+    background-attachment: local;
+}
+
+/*
+ * Word-by-word TTS highlight must use a fixed yellow/black scheme regardless
+ * of the surrounding text color (content may render in white, orange, etc.).
+ */
+span[data-word-index].bg-yellow-300 {
+    background-color: #fde047 !important;
+    color: #000 !important;
+}
